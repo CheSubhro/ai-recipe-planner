@@ -79,11 +79,15 @@ This project is for educational purposes as part of a Fullstack Development lear
 CheSubhro
 
 GitHub: @CheSubhro
-![Home Screen 1](https://github.com/user-attachments/assets/46cb92dd-ceee-41c1-bef2-649de10226d2)
+<img src="https://github.com/user-attachments/assets/46cb92dd-ceee-41c1-bef2-649de10226d2" width="100%" alt="Home Screen 1" />
 
-![Home Screen 2](https://github.com/user-attachments/assets/c71f72f8-8694-4f9f-a339-2aa251e9cfc5)
+<br/>
 
-![Home Screen 3](https://github.com/user-attachments/assets/c768c727-e16e-4a18-828a-f229dacd47bf)
+<img src="https://github.com/user-attachments/assets/c71f72f8-8694-4f9f-a339-2aa251e9cfc5" width="100%" alt="Home Screen 2" />
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/c768c727-e16e-4a18-828a-f229dacd47bf" width="100%" alt="Home Screen 3" />
 
 
 
