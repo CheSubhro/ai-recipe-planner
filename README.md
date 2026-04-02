@@ -79,9 +79,15 @@ This project is for educational purposes as part of a Fullstack Development lear
 CheSubhro
 
 GitHub: @CheSubhro
-![Home Screen 1](./screenshots/home1.png)
-![Home Screen 2](./screenshots/home2.png)
-![Home Screen 3](./screenshots/home3.png)
+<img src="./screenshots/home1.png" width="100%" alt="Home Screen 1" />
+
+<br/>
+
+<img src="./screenshots/home2.png" width="100%" alt="Home Screen 2" />
+
+<br/>
+
+<img src="./screenshots/home3.png" width="100%" alt="Home Screen 3" />
 
 
 
