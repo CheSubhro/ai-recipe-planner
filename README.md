@@ -2,8 +2,6 @@
 
 AI Magic Chef is a full-stack web application that helps users generate delicious recipes based on the ingredients they have at home. Using the power of **Google Gemini AI**, the app suggests creative dishes and automatically saves them for future reference.
 
-
-
 ---
 
 ## ✨ Features
@@ -13,6 +11,28 @@ AI Magic Chef is a full-stack web application that helps users generate deliciou
 - 🔍 **Smart Search**: Filter through your saved recipes by ingredients.
 - 📱 **Modern UI**: Built with Ant Design for a polished and responsive experience.
 - ⚡ **Fast Backend**: Powered by FastAPI for high-performance API handling.
+
+---
+
+## 🖼️ Project Screenshots
+
+<p align="center">
+  <img src="./screenshots/home1.png" width="80%" alt="Home Screen 1" />
+  <br/>
+  <i>User Interface & Ingredient Input</i>
+</p>
+
+<p align="center">
+  <img src="./screenshots/home2.png" width="80%" alt="Home Screen 2" />
+  <br/>
+  <i>AI Generated Recipe Result</i>
+</p>
+
+<p align="center">
+  <img src="./screenshots/home3.png" width="80%" alt="Home Screen 3" />
+  <br/>
+  <i>Saved Recipes Gallery</i>
+</p>
 
 ---
 
@@ -31,15 +51,7 @@ AI Magic Chef is a full-stack web application that helps users generate deliciou
 
 **Database:**
 - MongoDB Atlas (Cloud)
-<img src="./screenshots/home1.png" width="100%" alt="Home Screen 1" />
 
-<br/>
-
-<img src="./screenshots/home2.png" width="100%" alt="Home Screen 2" />
-
-<br/>
-
-<img src="./screenshots/home3.png" width="100%" alt="Home Screen 3" />
 ---
 
 ## 🚀 Getting Started
@@ -67,7 +79,7 @@ Run the server:
 
 Bash
 uvicorn main:app --reload
-3. Frontend Setup
+Frontend Setup
 Navigate to the frontend folder:
 
 Bash
@@ -87,16 +99,3 @@ This project is for educational purposes as part of a Fullstack Development lear
 CheSubhro
 
 GitHub: @CheSubhro
-<img src="./screenshots/home1.png" width="100%" alt="Home Screen 1" />
-
-<br/>
-
-<img src="./screenshots/home2.png" width="100%" alt="Home Screen 2" />
-
-<br/>
-
-<img src="./screenshots/home3.png" width="100%" alt="Home Screen 3" />
-
-
-
-
