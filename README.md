@@ -31,7 +31,15 @@ AI Magic Chef is a full-stack web application that helps users generate deliciou
 
 **Database:**
 - MongoDB Atlas (Cloud)
+<img src="./screenshots/home1.png" width="100%" alt="Home Screen 1" />
 
+<br/>
+
+<img src="./screenshots/home2.png" width="100%" alt="Home Screen 2" />
+
+<br/>
+
+<img src="./screenshots/home3.png" width="100%" alt="Home Screen 3" />
 ---
 
 ## 🚀 Getting Started
