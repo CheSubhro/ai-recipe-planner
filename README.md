@@ -17,19 +17,19 @@ AI Magic Chef is a full-stack web application that helps users generate deliciou
 ## 🖼️ Project Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac708375-35d0-4f99-9175-74a2f1e11d16" width="80%" alt="Home Screen 1" />
+  <img src="https://github.com/user-attachments/assets/24682521-34bc-4049-af16-a7375889540f" width="80%" alt="Home Screen 1" />
   <br/>
   <i>User Interface & Ingredient Input</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24682521-34bc-4049-af16-a7375889540f" width="80%" alt="Home Screen 2" />
+  <img src="https://github.com/user-attachments/assets/c48924da-9541-4e86-bb07-45120572d332" width="80%" alt="Home Screen 2" />
   <br/>
   <i>AI Generated Recipe Result</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c48924da-9541-4e86-bb07-45120572d332" width="80%" alt="Home Screen 3" />
+  <img src="https://github.com/user-attachments/assets/ac708375-35d0-4f99-9175-74a2f1e11d16" width="80%" alt="Home Screen 3" />
   <br/>
   <i>Saved Recipes Gallery</i>
 </p>
